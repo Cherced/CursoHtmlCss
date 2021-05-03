@@ -1,0 +1,39 @@
+.Titulo{
+    color: rgb(0, 0, 0);
+    font-size: 100px;
+}
+
+.Mañanas{
+    color:indigo;
+    font-size: 50px;
+}
+
+.lunes{
+    color:maroon;
+    font-size: 30px;
+}
+
+.Pierna{
+    color:rgb(243, 221, 19);
+    font-size: 30px;
+}
+
+.Miercoles{
+    color:rgb(248, 19, 19);
+    font-size: 30px;
+}
+
+.Espalda{
+    color:rgb(4, 8, 231);
+    font-size: 30px;
+}
+
+.Viernes{
+    color:rgb(17, 177, 51);
+    font-size: 30px;
+}
+
+.Pecho{
+    color:indigo;
+    font-size: 30px;
+}
