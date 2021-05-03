@@ -1,2 +1,2 @@
 # CursoHtmlCss
-Clases vistas en cuso definitivo HTML CSS
+Clases vistas en curso definitivo HTML CSS
