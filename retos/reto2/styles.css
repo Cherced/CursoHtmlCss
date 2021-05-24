@@ -1,0 +1,62 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+    font-family: 'Copperplate', sans-serif, 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Verdana, sans-serif;
+}
+
+#main-container{ 
+    font-size: 62.5%;
+    width: 100%;
+    height: 100%; 
+    -webkit-appearance: none;
+}
+
+.logo-wow {    
+    font-size: 1.6rem;
+    font-weight: bold;
+    color: antiquewhite;  
+}
+
+.text-home {
+    text-align: center;
+}
+
+.logo {
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/976/726/573/warcraft-world-of-warcraft-icecrown-citadel-lich-king-wallpaper-preview.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    text-align: left;
+}
+
+
+.arthas {
+    background-color: black;
+    background-image: url(https://i.pinimg.com/originals/3a/b1/c3/3ab1c301cc676ef6c06fde55cab71c6a.jpg);
+    background-repeat: repeat-y;
+    background-size: 50%;
+    padding: 10px;    
+}
+
+.hero {
+    position: inherit;
+    text-align: right;
+    width: 100%;
+    height: 100%;
+    padding: 20px   
+}
+
+#post {
+    padding: 30px;
+    text-align: justify;
+    font-size: 1.0rem;
+    font-weight: bold;
+    color: dimgrey;
+}
+
+
+
+
+
+
+
