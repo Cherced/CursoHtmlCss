@@ -61,15 +61,14 @@ aside {
     border-radius: 2px;
     padding: 10px;
     text-align: left;
-    display: ruby-text-container;
 }
 
-.hitman {
+ #hitman {
+    background-color: transparent;
     position: relative;
     text-align: right;
     display: block;
-    border-radius: 50px;
-    background-color: transparent;
+    top: 30px;
 }
 
 
