@@ -1,0 +1,80 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+    background-color: black;
+}
+
+header {    
+    height: 17.2vh;    
+    background-color: black;
+    color:red;   
+    font-size: 1rem;
+    border-radius: 5px;
+}
+
+header li {    
+    margin: 12.5px;
+    display: inline-block;
+    text-align: center;
+    list-style: none;
+}
+
+.logo-nav {   
+    margin-top: 5px ;
+    margin-left: 20px;
+}
+
+figure, nav {
+    position: fixed;
+    display: inline-block;
+    top: 1rem;    
+}
+
+nav {
+    top: 2rem;
+    margin-left: 10rem;
+}
+
+main {
+    height: 76vh;
+    background-image: url(https://image.freepik.com/foto-gratis/escena-crimen_1048-5335.jpg);
+    background-size: cover ;
+}
+
+aside {
+    margin-right: 60%;
+    background-color: transparent;
+    padding-top: 10px;
+    padding-bottom: 10PX;
+    border-radius: 10px;
+    color: red;
+}
+
+.options {
+    margin: 10px;
+    border: 5px;
+    border-radius: 2px;
+    padding: 10px;
+    text-align: left;
+    display: ruby-text-container;
+}
+
+.hitman {
+    position: relative;
+    text-align: right;
+    display: block;
+    border-radius: 50px;
+    background-color: transparent;
+}
+
+
+footer {
+    background-image: url(https://i.pinimg.com/236x/28/72/9f/28729f36367aaa2f920cf30a399f702d.jpg);
+    height: 6.8vh; 
+}
+
