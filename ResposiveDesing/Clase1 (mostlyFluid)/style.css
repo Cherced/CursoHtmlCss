@@ -1,0 +1,74 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.C1, .C2, .C3, .C4, .C5 {
+    width: 100%;
+    min-width: 150px;
+    height: 150px;
+}
+
+.C1 {
+    background-color: grey;
+
+}
+
+.C2 {
+    background-color: indigo;
+
+}
+
+.C3 {
+    background-color: lavenderblush;
+
+}
+
+.C4 {
+    background-color: magenta;
+
+}
+
+.C5 {
+    background-color: olive;
+
+}
+
+/* @media (min-width: 600px) {
+    .C2,.C3,.C4 {
+        width: 50%;
+    }
+} */
+
+/* @media (min-width: 800px) {
+    .container {
+        width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+    }
+    .C1 {
+        width: 60%;
+    }
+    .C2 {
+        width: 40%;
+    }
+    .C3,.C4 {
+        width: 33%;
+    }
+    .C5 {
+        width: 34%;
+    }
+
+
+} */
+

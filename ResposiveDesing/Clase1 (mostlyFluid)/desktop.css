@@ -1,0 +1,17 @@
+.container {
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.C1 {
+    width: 60%;
+}
+.C2 {
+    width: 40%;
+}
+.C3,.C4 {
+    width: 33%;
+}
+.C5 {
+    width: 34%;
+}
